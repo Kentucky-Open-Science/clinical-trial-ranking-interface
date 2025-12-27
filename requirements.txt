@@ -2,7 +2,7 @@ python-dotenv~=1.0.1
 langchain-caai
 langchain_openai
 
-h11~=0.14.0
+h11~=0.16.0
 pip~=22.3.1
 attrs~=24.2.0
 distro~=1.9.0
